@@ -1,6 +1,8 @@
 # data-science-usa-unemployment
 
-:cowboy_hat_face: <i>Statistical treatment of the FRED's time-series of the USA unemployment rate 1948 2021</i>
+:cowboy_hat_face: <i>Statistical treatment of the [FRED's time-series of the USA unemployment rate 1948 2021](https://fred.stlouisfed.org/series/UNRATE)</i>
+
+<img src="fred-data.png">
 
 ---
 
